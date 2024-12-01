@@ -1,3 +1,6 @@
+# AOC Inputs
+*.input
+
 # Logs
 logs
 *.log
